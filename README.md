@@ -4,7 +4,7 @@ var:
 - item1
 - item2
 
-layout: post.html
+layout: https://github.com/joekingTheThird3/joekingTheThird3-blog/post.html
 ---
 # blog
 
