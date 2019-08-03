@@ -3,4 +3,4 @@ crap: github
 ---
 # blog
 
-this is {{crap}}
+this is {{ crap }}
