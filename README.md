@@ -4,7 +4,7 @@ var:
 - item1
 - item2
 
-
+layout: post.html
 ---
 # blog
 
